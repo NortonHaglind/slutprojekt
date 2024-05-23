@@ -1,0 +1,242 @@
+[
+    {
+        "question": "sl\u00e5 mynt av",
+        "answers": [
+            "utnyttja",
+            "f\u00f6rst\u00e4rka",
+            "ers\u00e4tta",
+            "f\u00f6rgylla"
+        ],
+        "correct_answer": 1,
+        "player_answer": 1,
+        "question_number": 1
+    },
+    {
+        "question": "kallsk\u00e4nk",
+        "answers": [
+            "donation fr\u00e5n en ok\u00e4nd",
+            "plats f\u00f6r tillredning av mat",
+            "k\u00e4nsla av \u00f6vergivenhet",
+            "rituell \u00f6verl\u00e4mning av g\u00e5va"
+        ],
+        "correct_answer": 2,
+        "player_answer": 1,
+        "question_number": 2
+    },
+    {
+        "question": "avhandla",
+        "answers": [
+            "best\u00e4lla",
+            "r\u00e5dfr\u00e5ga",
+            "diskutera",
+            "meddela"
+        ],
+        "correct_answer": 3,
+        "player_answer": 1,
+        "question_number": 3
+    },
+    {
+        "question": "arla",
+        "answers": [
+            "klart",
+            "tidigt",
+            "vackert",
+            "enkelt"
+        ],
+        "correct_answer": 2,
+        "player_answer": 1,
+        "question_number": 4
+    },
+    {
+        "question": "umb\u00e4rlig",
+        "answers": [
+            "on\u00f6dig",
+            "s\u00e4llskaplig",
+            "varsam",
+            "bristf\u00e4llig"
+        ],
+        "correct_answer": 1,
+        "player_answer": 2,
+        "question_number": 5
+    },
+    {
+        "question": "mani",
+        "answers": [
+            "vanesak",
+            "stark r\u00e4dsla",
+            "inbillningssjuka",
+            "\u00f6verdrivet intresse"
+        ],
+        "correct_answer": 4,
+        "player_answer": 3,
+        "question_number": 6
+    },
+    {
+        "question": "begrundan",
+        "answers": [
+            "\u00f6vertygelse",
+            "syns\u00e4tt",
+            "uppskattning",
+            "eftertanke"
+        ],
+        "correct_answer": 4,
+        "player_answer": 1,
+        "question_number": 7
+    },
+    {
+        "question": "fonologi",
+        "answers": [
+            "l\u00e4ran om spr\u00e5kljuden",
+            "l\u00e4ran om talekonsten",
+            "l\u00e4ran om dialekterna",
+            "l\u00e4ran om skriftspr\u00e5ken"
+        ],
+        "correct_answer": 1,
+        "player_answer": 3,
+        "question_number": 8
+    },
+    {
+        "question": "gemene man",
+        "answers": [
+            "n\u00e4ra sl\u00e4kting",
+            "finare s\u00e4llskap",
+            "k\u00e4nd person",
+            "folk i allm\u00e4nhet"
+        ],
+        "correct_answer": 4,
+        "player_answer": 1,
+        "question_number": 9
+    },
+    {
+        "question": "resonabel",
+        "answers": [
+            "tillf\u00f6rlitlig",
+            "r\u00e4ttvis",
+            "samst\u00e4mmig",
+            "vettig"
+        ],
+        "correct_answer": 4,
+        "player_answer": 3,
+        "question_number": 10
+    },
+    {
+        "question": "h\u00e5rdragen",
+        "answers": [
+            "obetydlig",
+            "l\u00e5ngs\u00f6kt",
+            "pl\u00e5gsam",
+            "fink\u00e4nslig"
+        ],
+        "correct_answer": 2,
+        "player_answer": 1,
+        "question_number": 11
+    },
+    {
+        "question": "bifall",
+        "answers": [
+            "medverkan",
+            "synpunkt",
+            "samtycke",
+            "lydnad"
+        ],
+        "correct_answer": 3,
+        "player_answer": 3,
+        "question_number": 12
+    },
+    {
+        "question": "svartm\u00e5la",
+        "answers": [
+            "f\u00f6rtala",
+            "utm\u00e4rka",
+            "f\u00f6rst\u00f6ra",
+            "d\u00f6lja"
+        ],
+        "correct_answer": 1,
+        "player_answer": 1,
+        "question_number": 13
+    },
+    {
+        "question": "uppfordrande",
+        "answers": [
+            "upprepande",
+            "utv\u00e4rderande",
+            "uppmanande",
+            "utm\u00e4rkande"
+        ],
+        "correct_answer": 3,
+        "player_answer": 1,
+        "question_number": 14
+    },
+    {
+        "question": "magnifik",
+        "answers": [
+            "h\u00f6gtidlig",
+            "f\u00f6rh\u00e4rligad",
+            "\u00f6verordnad",
+            "praktfull"
+        ],
+        "correct_answer": 4,
+        "player_answer": 1,
+        "question_number": 15
+    },
+    {
+        "question": "lekamen",
+        "answers": [
+            "redskap",
+            "kropp",
+            "partikel",
+            "gr\u00e4ns"
+        ],
+        "correct_answer": 2,
+        "player_answer": 1,
+        "question_number": 16
+    },
+    {
+        "question": "val\u00f6r",
+        "answers": [
+            "m\u00e4ngd",
+            "v\u00e4rde",
+            "standard",
+            "form"
+        ],
+        "correct_answer": 2,
+        "player_answer": 1,
+        "question_number": 17
+    },
+    {
+        "question": "etsa sig in",
+        "answers": [
+            "blanda sig i",
+            "v\u00e4nja sig vid",
+            "k\u00e4mpa sig igenom",
+            "br\u00e4nna sig fast"
+        ],
+        "correct_answer": 4,
+        "player_answer": 1,
+        "question_number": 18
+    },
+    {
+        "question": "lobotomi",
+        "answers": [
+            "blodanalys",
+            "skiktr\u00f6ntgen",
+            "tarmunders\u00f6kning",
+            "hj\u00e4rnoperation"
+        ],
+        "correct_answer": 4,
+        "player_answer": 1,
+        "question_number": 19
+    },
+    {
+        "question": "fragmentering",
+        "answers": [
+            "utsp\u00e4dning",
+            "nybildning",
+            "s\u00f6nderdelning",
+            "f\u00f6rkortning"
+        ],
+        "correct_answer": 3,
+        "player_answer": 1,
+        "question_number": 20
+    }
+]
