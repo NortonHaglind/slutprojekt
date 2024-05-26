@@ -21,32 +21,40 @@ while active:
 
     for question in question_info:
         
-    
-        
-        
         os.system("cls")
        
-        print("fråga" , question["question_number"])
-        
+        print(functions.bcolors.YELLOW + functions.bcolors.UNDERLINE +"Fråga" , question["question_number"],":" , question["question"])
 
-        print("Fråga:", question["question"])
         i = 1
+
         for answer in question["answers"]:
-            print(f"{i}. {answer}")
+
+            print(functions.bcolors.DEFAULT + functions.bcolors.BLUE + f"{i}. {answer}")
+
             i = i + 1
+
         while True:
+
             player_ans = getwch()
+
             if player_ans.lower() == "q":
+
                 active = False
+
                 break
                
-            
             if player_ans.isdigit():
+
                 player_ans == int(player_ans)
+
                 if 0 < int(player_ans) < 5:
+
                     question["player_answer"] = int(player_ans)
+
                     if int(player_ans) == question["correct_answer"]:
+                         
                          print(question["correct_answer"])
+
                          player_right = player_right + 1
                     break
                 else:
@@ -59,9 +67,10 @@ while active:
         if not active:
             break
 
-        if question_no == total_rounds:
-            print(f"nu är du klar")
-            print(f"du fick {player_right}/{total_rounds}")
+        if question["question_number"] == total_rounds:
+            os.system("cls")
+            print(functions.bcolors.YELLOW + "nu är du klar")
+            print(f"{functions.bcolors.YELLOW}du fick {functions.bcolors.BLUE}{player_right}{functions.bcolors.YELLOW}/{functions.bcolors.PURPLE}{total_rounds}")
             active = False
 
             quit

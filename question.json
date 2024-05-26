@@ -8,7 +8,7 @@
             "f\u00f6rgylla"
         ],
         "correct_answer": 1,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 1
     },
     {
@@ -20,7 +20,7 @@
             "rituell \u00f6verl\u00e4mning av g\u00e5va"
         ],
         "correct_answer": 2,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 2
     },
     {
@@ -32,7 +32,7 @@
             "meddela"
         ],
         "correct_answer": 3,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 3
     },
     {
@@ -44,7 +44,7 @@
             "enkelt"
         ],
         "correct_answer": 2,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 4
     },
     {
@@ -68,7 +68,7 @@
             "\u00f6verdrivet intresse"
         ],
         "correct_answer": 4,
-        "player_answer": 3,
+        "player_answer": 2,
         "question_number": 6
     },
     {
@@ -80,7 +80,7 @@
             "eftertanke"
         ],
         "correct_answer": 4,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 7
     },
     {
@@ -92,7 +92,7 @@
             "l\u00e4ran om skriftspr\u00e5ken"
         ],
         "correct_answer": 1,
-        "player_answer": 3,
+        "player_answer": 2,
         "question_number": 8
     },
     {
@@ -104,7 +104,7 @@
             "folk i allm\u00e4nhet"
         ],
         "correct_answer": 4,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 9
     },
     {
@@ -116,7 +116,7 @@
             "vettig"
         ],
         "correct_answer": 4,
-        "player_answer": 3,
+        "player_answer": 2,
         "question_number": 10
     },
     {
@@ -128,7 +128,7 @@
             "fink\u00e4nslig"
         ],
         "correct_answer": 2,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 11
     },
     {
@@ -140,7 +140,7 @@
             "lydnad"
         ],
         "correct_answer": 3,
-        "player_answer": 3,
+        "player_answer": 2,
         "question_number": 12
     },
     {
@@ -152,7 +152,7 @@
             "d\u00f6lja"
         ],
         "correct_answer": 1,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 13
     },
     {
@@ -164,7 +164,7 @@
             "utm\u00e4rkande"
         ],
         "correct_answer": 3,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 14
     },
     {
@@ -176,7 +176,7 @@
             "praktfull"
         ],
         "correct_answer": 4,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 15
     },
     {
@@ -188,7 +188,7 @@
             "gr\u00e4ns"
         ],
         "correct_answer": 2,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 16
     },
     {
@@ -200,7 +200,7 @@
             "form"
         ],
         "correct_answer": 2,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 17
     },
     {
@@ -212,7 +212,7 @@
             "br\u00e4nna sig fast"
         ],
         "correct_answer": 4,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 18
     },
     {
@@ -224,7 +224,7 @@
             "hj\u00e4rnoperation"
         ],
         "correct_answer": 4,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 19
     },
     {
@@ -236,7 +236,7 @@
             "f\u00f6rkortning"
         ],
         "correct_answer": 3,
-        "player_answer": 1,
+        "player_answer": 2,
         "question_number": 20
     }
 ]
